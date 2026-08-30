@@ -244,7 +244,7 @@ This project is not affiliated with **Capcom** or **Microsoft**.
 **© 2026 Nicholas S. Felipe — Preservation documentation and project organization.**
 
 **GitHub:**  
-[GitHub — file-0]((https://github.com/file-0))
+[GitHub — file-0]([https://github.com/file-0])
 
 **STREET FIGHTER IV — PC — ORIGINAL MAY 2009 BUILD**  
 *Digital Preservation Project*
