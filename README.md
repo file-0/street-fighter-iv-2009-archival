@@ -10,7 +10,7 @@
 
 ---
 
-## 🥊 About
+## About
 
 This project documents and preserves the original **Street Fighter IV PC environment from 2009**, with particular attention to the early Windows release and its legacy software dependencies.
 
