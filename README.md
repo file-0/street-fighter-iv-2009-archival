@@ -4,7 +4,7 @@
 > **Status:** WORKING / PRESERVED  
 > **Release:** Original PC release — May 2009  
 > **Focus:** digital preservation, provenance, compatibility and historical documentation
-[![DOWNLOAD COMPLETE ARCHIVE](assets/download.png)](google.com)
+[![DOWNLOAD FULL ARCHIVE](https://img.shields.io/badge/DOWNLOAD-FULL%20ARCHIVE-red?style=for-the-badge&logo=icloud)](PASTE_CLOUD_DOWNLOAD_URL_HERE)
 ---
 
 **Archive size:** ~9.55 GB  
