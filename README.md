@@ -220,16 +220,6 @@ This project is not affiliated with **Capcom** or **Microsoft**.
 
 ---
 
-## 📚 Documentation
-
-- [Compatibility](08%20%E2%80%94%20DOCUMENTATION/Compatibility.txt)
-- [Installation Notes](08%20%E2%80%94%20DOCUMENTATION/Installation_Notes.txt)
-- [Troubleshooting](08%20%E2%80%94%20DOCUMENTATION/Troubleshooting.txt)
-- [Checksums](CHECKSUMS.txt)
-- [Changelog](CHANGELOG.txt)
-
----
-
 ## Credits / Provenance
 
 - **Capcom** — original game
