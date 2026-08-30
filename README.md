@@ -3,24 +3,18 @@
 
 > **Status:** WORKING / PRESERVED  
 > **Release:** Original PC release — May 2009  
-> **Region:** Argentina / Synergex de Argentina  
 > **Focus:** digital preservation, provenance, compatibility and historical documentation
 
+[![DOWNLOAD FULL ARCHIVE](https://img.shields.io/badge/DOWNLOAD-FULL%20ARCHIVE-red?style=for-the-badge&logo=icloud)](PASTE_CLOUD_DOWNLOAD_URL_HERE)
 ---
 
-### ☁️ COMPLETE ARCHIVE
+**Archive size:** ~9.55 GB  
+**Format:** ZIP  
+**Host:** Cloud storage  
+**Contents:** Complete preservation set
 
-[![DOWNLOAD COMPLETE ARCHIVE](assets/download.png)](PASTE_CLOUD_DOWNLOAD_URL_HERE)
-
-**~9.55 GB — Complete Preservation Package**
-
-The complete archival package is hosted externally due to its size
-and the nature of the preserved material.
-
-GitHub serves as the public documentation and catalog.
-The external archive contains the complete preservation package.
-
----
+> The GitHub repository contains the documentation and catalog.
+> The complete archival package is hosted externally.
 
 ## 🇧🇷 Sobre
 
