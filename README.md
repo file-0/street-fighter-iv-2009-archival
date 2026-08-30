@@ -7,6 +7,14 @@
 [![DOWNLOAD COMPLETE ARCHIVE](assets/download.png)](google.com)
 ---
 
+**Archive size:** ~9.55 GB  
+**Format:** ZIP  
+**Host:** Cloud storage  
+**Contents:** Complete preservation set
+
+> The GitHub repository contains the documentation and catalog.
+> The complete archival package is hosted externally.
+
 ## 🇧🇷 Sobre
 
 Este projeto documenta uma coleção de materiais relacionados à versão original de **Street Fighter IV para PC**, com foco no lançamento inicial de 2009.
