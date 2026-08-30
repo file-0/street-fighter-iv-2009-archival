@@ -237,8 +237,14 @@ This project is not affiliated with **Capcom** or **Microsoft**.
 - **Microsoft** — Games for Windows LIVE / Windows components
 - **DiscImageCreator / MPF** — media dumping tools referenced by the source metadata
 - **CDCheck / VSO Inspector** — media verification tools referenced by the source metadata
-
+  
 ---
+### Project Author & Curator
+
+**Nicholas S. Felipe**
+**N&F NCC Services**
+**GitHub:**  
+[GitHub — file-0](YOUR_GITHUB_PROFILE_URL)
 
 **STREET FIGHTER IV — PC — ORIGINAL MAY 2009 BUILD**  
 *Digital Preservation Project*
