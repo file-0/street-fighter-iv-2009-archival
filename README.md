@@ -241,7 +241,7 @@ This project is not affiliated with **Capcom** or **Microsoft**.
 ---
 ### Project Author & Curator
 
-**Nicholas S. Felipe**
+**© 2026 Nicholas S. Felipe — Preservation documentation and project organization.**
 
 **GitHub:**  
 [GitHub — file-0](YOUR_GITHUB_PROFILE_URL)
