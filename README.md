@@ -243,8 +243,6 @@ This project is not affiliated with **Capcom** or **Microsoft**.
 
 **Nicholas S. Felipe**
 
-**N&F NCC Services**
-
 **GitHub:**  
 [GitHub — file-0](YOUR_GITHUB_PROFILE_URL)
 
