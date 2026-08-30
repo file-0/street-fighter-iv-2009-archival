@@ -174,7 +174,7 @@ Useful investigation targets include missing DLLs, dependency loading, filesyste
 
 ---
 
-## 🏛️ Preservation philosophy
+## Resources
 
 The collection deliberately separates:
 
@@ -190,9 +190,6 @@ The collection deliberately separates:
 10. **Original Soundtrack**
 
 This distinction allows the project to document what belongs to the historical release versus what was added later to reproduce the software environment.
-
-> **IF IT WORKS — DO NOT TOUCH IT.**  
-> **SE FUNCIONA — NÃO MEXA.**
 
 ---
 
