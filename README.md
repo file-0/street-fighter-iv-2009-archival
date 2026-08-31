@@ -7,7 +7,7 @@
 > **Version:** 1.0.0.1  
 > **SecuROM:** 07.39.0006
 
-[![DOWNLOAD FULL ARCHIVE](https://img.shields.io/badge/DOWNLOAD-FULL%20ARCHIVE-red?style=for-the-badge&logo=icloud)](PASTE_CLOUD_DOWNLOAD_URL_HERE)
+[![DOWNLOAD FULL ARCHIVE](https://img.shields.io/badge/DOWNLOAD-FULL%20ARCHIVE-red?style=for-the-badge&logo=icloud)](https://icedrive.net/s/W2b6Wj7uwTtX59jxY5xvx45G6VgD)
 ---
 
 **Archive size:** ~9.55 GB  
